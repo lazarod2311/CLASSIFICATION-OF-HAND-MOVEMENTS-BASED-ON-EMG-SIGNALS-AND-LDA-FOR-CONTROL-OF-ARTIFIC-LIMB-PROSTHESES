@@ -1,2 +1,3 @@
 # CLASSIFICATION-OF-HAND-MOVEMENTS-BASED-ON-EMG-SIGNALS-AND-LDA-FOR-CONTROL-OF-ARTIFIC-LIMB-PROSTHESES
- In this repository are the algorithms used for the classification of movements present in the "pr" folder of the "Open Access Dataset and Toolbox of High-Density Surface Electromyogram Recordings" dataset using LDA.
+ In this repository are the algorithms used for the classification of movements present in the "pr" folder of the "Open Access Dataset and Toolbox of High-Density Surface Electromyogram Recordings" dataset using LDA.  
+The dataset has available at "https://physionet.org/content/hd-semg/ 1.0.0/". The jupyter notebook files contain the execution of the algorithm, while the .py files contain the classes for data acquisition, preparation and classification. To run, download the repository and run the file "data_prepare.py", after that run "analises.ipynb" and then "analises_graph.ipynb"
